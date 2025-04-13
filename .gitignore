@@ -44,9 +44,6 @@ out/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**
 !**/src/test/**
-
-
-
-data/
+/data
 Dockerfile
 
