@@ -3,7 +3,7 @@ Thumbs.db*
 HELP.md
 .gradle
 build/
-data/
+
 
 ### STS ###
 .apt_generated
@@ -44,5 +44,9 @@ out/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**
 !**/src/test/**
+
+
+
+data/
 
 
