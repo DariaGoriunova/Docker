@@ -47,6 +47,6 @@ out/
 
 
 
-data/
-
+/data
+Dockerfile
 
